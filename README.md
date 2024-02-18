@@ -17,4 +17,4 @@ Assemble the source code using the following command:
 as alloc.s -o alloc.o
 ```
 - **Linking:**
-Link the object file with your own program, as this Memory Manager is not a standalone program..
+Link the object file with your own program, as this Memory Manager is not a standalone program.
