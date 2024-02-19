@@ -11,7 +11,7 @@ The purpose of this program is to learn about assembly language and computer arc
 ## Usage
 
 - **Assemble:**
-Ensure you have a suitable assembler installed on your system.
+Ensure you have a suitable assembler(GNU Assembler) installed on your system.
 Assemble the source code using the following command:
 ```
 as alloc.s -o alloc.o
