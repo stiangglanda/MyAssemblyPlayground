@@ -35,3 +35,17 @@ ld -o toupper toupper.o
 ```
 ./toupper input.txt output.txt
 ```
+## TicTacToe
+TicTacToe uses Intel syntax and I used the nasm assembler.
+- **Assemble:**
+```
+nasm -f elf TicTacToe.asm
+```
+- **Linking:**
+```
+ld -m elf_i386 -s -o TicTacToe TicTacToe.o
+```
+- **Execution**
+```
+./TicTacToe
+```
