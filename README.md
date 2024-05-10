@@ -49,3 +49,10 @@ ld -m elf_i386 -s -o TicTacToe TicTacToe.o
 ```
 ./TicTacToe
 ```
+## HelloWorld.hex
+This is a hello world prgramm writton in hex that uses the ELF format.
+To run it: 
+- you need to be on linux
+- run chmod +x on the binary
+- execute it
+![HelloWorldHex](https://github.com/stiangglanda/MyAssemblyPlayground/assets/69088823/5b416968-797c-4fc3-95c5-6ccc39acf310)
